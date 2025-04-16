@@ -41,8 +41,8 @@ function Contact(): React.ReactElement {
       <div className="content relative z-10 max-w-3xl" data-aos="fade-up">
         <h2 className="text-4xl font-bold mb-5">Contact</h2>
         <p className="text-lg mb-5 leading-relaxed">
-          Email us at <a href="mailto:contact@syscubelabs.com" className="hover:text-teal-300 transition-colors">
-            contact@syscubelabs.com
+          Email us at <a href="mailto:sharmarid09@gmail.com" className="hover:text-teal-300 transition-colors">
+            sharmarid09@gmail.com
           </a>
         </p>
       </div>

@@ -55,7 +55,7 @@ function Header(): React.ReactElement {
         </nav>
 
         {/* Hamburger Icon */}
-        <div className="block md:hidden text-3xl cursor-pointer" onClick={toggleMenu}>
+        <div className="block md:hidden text-3xl cursor-pointer text-white" onClick={toggleMenu}>
           &#9776;
         </div>
       </div>
