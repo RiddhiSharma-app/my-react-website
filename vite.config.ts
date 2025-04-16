@@ -6,5 +6,5 @@ export default defineConfig({
   css: {
     postcss: './postcss.config.js', // explicitly mention if needed
   },
-  base: "/my-react-website/",
+  base: "/my-website/",
 })
